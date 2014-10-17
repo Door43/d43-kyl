@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyl:home|Door43 (kyl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyl|d43-kyl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyl/archive/master.zip|d43-kyl.zip]]
+
+**Recent Changes**
+{{changes>ns = kyl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyl|Ethnologue data]]
+
